@@ -35,6 +35,10 @@ STEPS
 NOTES
 Statt frischer Mango geht auch Mangopüree aus der Dose (Alphonso aus dem Asia-Laden ist top) – dann beim Lassi den Honig erst mal weglassen, das Püree ist oft schon gesüßt. Dazu passen Naan oder Basmatireis.
 
+<<<<<<< HEAD
 Mangolassi
 
 noch mehr Manogolassi
+=======
+Mango Lassi ist top!!!!
+>>>>>>> c32cf937aa8192a3e75bb6498f0cfcb7b1471ab2
